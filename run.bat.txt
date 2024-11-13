@@ -1,0 +1,2 @@
+cd C:\Users\sn185257\eclipse-workspace\HybridFrameWork
+mvn clean test
